@@ -17,6 +17,7 @@ Hashes
 
 Trees
 
+
 Analisys of algorithms
 ----------------------
 
@@ -26,11 +27,17 @@ Analisys of algorithms
 Big O notation
 --------------
 constant = 1
+
 logarithm = log N
+
 linear = N
+
 linearithmic = N log N
+
 quadratic = N^2
+
 cubic = N^3
+
 exponential = 2^N
 
 
